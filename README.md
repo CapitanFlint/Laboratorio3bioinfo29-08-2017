@@ -129,6 +129,13 @@ __R:__
 
 
 
+![orfs](https://github.com/CapitanFlint/Laboratorio3bioinfo29-08-2017/blob/master/ORF.png)
+
+
+
+__IMAGEN 2:__ Resultados obtenidos en OFFfinder.
+
+
 #### ¿Cuántos ORF o genes encontró Glimmer?
 
 
