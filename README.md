@@ -125,7 +125,7 @@ __R:__
 __R:__
 
 
-+ ` `
++ `La secuencia entregó 7 open reading frames.`
 
 
 
@@ -142,7 +142,7 @@ __IMAGEN 2:__ Resultados obtenidos en OFFfinder.
 __R:__
 
 
-+ ` `
++ `- `
 
 
 
@@ -152,7 +152,7 @@ __R:__
 __R:__
 
 
-+ ` `
++ `- `
 
 
 
@@ -174,7 +174,7 @@ __R:__
 
 
 
-+ ` `
++ ` -`
 
 
 
