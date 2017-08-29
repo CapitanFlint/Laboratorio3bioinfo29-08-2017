@@ -69,8 +69,10 @@ __R:__
 
 
 
-+ `El organismo escogido es Brachypodium distachyon [1].`
++ `El genoma escogido es Brachypodium distachyon Brachypodium_distachyon_v2.0 [1].`
 
+
++ El estudio es: https://www.nature.com/nature/journal/v463/n7282/full/nature08747.html
 
 
 
@@ -99,7 +101,7 @@ __R:__
 
 
 
-+ ` `
++ `ABI 3730 xl instruments.`
  
 
 
@@ -112,9 +114,60 @@ __R:__
 
 
 
++ `Brachypodium distachyon [1], posee 5 cromosomas y su longitud total es de 271,77 Mpb. `
+
+
+
+
+#### ¿Cuántos ORF o genes encontró ORFfinder?
+
+
+__R:__
+
+
 + ` `
 
-s
+
+
+#### ¿Cuántos ORF o genes encontró Glimmer?
+
+
+__R:__
+
+
++ ` `
+
+
+
+#### ¿Alguno de los genes predichos por estas herramientas coinciden?
+
+
+__R:__
+
+
++ ` `
+
+
+
+#### ¿En qué hebra están codificados?
+
+
+__R:_
+
+
++ ` `
+
+
+#### ¿Qué tipo de programa es GLIMMER? ¿Ab initio o por homología?
+
+
+
+__R:__
+
+
+
+
++ ` `
 
 
 
