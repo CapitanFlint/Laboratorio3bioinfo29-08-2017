@@ -117,6 +117,11 @@ __R:__
 + `Brachypodium distachyon [1], posee 5 cromosomas y su longitud total es de 271,77 Mpb. `
 
 
+# Parte 2: Predicción de genes
+
+
+-----
+
 
 
 #### ¿Cuántos ORF o genes encontró ORFfinder?
