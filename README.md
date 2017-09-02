@@ -147,7 +147,7 @@ __IMAGEN 2:__ Resultados obtenidos en OFFfinder.
 __R:__
 
 
-+ `- `
++ `Glimmer, a diferencia de ORFfinder, entrego 10 Open reading frames. `
 
 
 
@@ -180,6 +180,19 @@ __R:__
 
 
 + ` -`
+
+
+
+
+### Busqueda BLAST
+
+
+-----
+
+
+# Los ORF encontrados en GLIMMER son 
+
+ORF 8
 
 
 
