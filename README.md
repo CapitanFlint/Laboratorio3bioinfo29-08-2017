@@ -167,7 +167,7 @@ __R:__
 __R:_
 
 
-+ ` `
++ `En ambas hebras `
 
 
 #### ¿Qué tipo de programa es GLIMMER? ¿Ab initio o por homología?
@@ -179,20 +179,12 @@ __R:__
 
 
 
-+ ` -`
++ `Es del tipo ab initio`
 
 
 
 
-### Busqueda BLAST
 
-
------
-
-
-# Los ORF encontrados en GLIMMER son 
-
-ORF 8
 
 
 
